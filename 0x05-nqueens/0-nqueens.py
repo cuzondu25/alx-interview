@@ -26,7 +26,7 @@ if __name__ == '__main__':
     r = 0
     c = 0
 
-    # iterate thru rows
+    # iterate though rows
     while r < n:
         goback = False
         # iterate thru columns
